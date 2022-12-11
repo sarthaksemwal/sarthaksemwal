@@ -1,7 +1,6 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarthak semwal</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
-add Right Gif Image
+<h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksemwal&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksemwal" /> </p>
@@ -12,7 +11,11 @@ add Right Gif Image
 
 - 📝You can find my articles on [sarthaksemwal.blogspot.com](sarthaksemwal.blogspot.com)
 
+- 💬 Ask me about **java,c++,sql,flutter**
+
 - 📫 How to reach me **sarthaksemwal02@gmail.com**
+
+- ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +32,3 @@ add Right Gif Image
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaksemwal&show_icons=true&locale=en" alt="sarthaksemwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksemwal&" alt="sarthaksemwal" /></p>
-
