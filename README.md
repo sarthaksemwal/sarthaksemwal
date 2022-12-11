@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://rishavchanda.io)
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
 <h1 align="center">Hi 👋, I'm Sarthak semwal</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 add Right Gif Image
