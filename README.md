@@ -11,7 +11,7 @@
 
 - 📝You can find my articles on [sarthaksemwal.blogspot.com](sarthaksemwal.blogspot.com)
 
-- 💬 Ask me about **java,c++,sql,flutter**
+- 💬 Ask me about **java , c++ , sql , flutter**
 
 - 📫 How to reach me **sarthaksemwal02@gmail.com**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarthak semwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak semwal" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthak_smwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_smwl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sarthaksemwal69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarthaksemwal69" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak semwal" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvArBsL3q-mYGcZu2JGAch1aGPclnz488q-w&usqp=CAU" alt="sarthak semwal" height="30" width="40" /></a>
+<a href="https://instagram.com/sarthak_smwl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="sarthak_smwl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sarthaksemwal69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@sarthaksemwal69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
