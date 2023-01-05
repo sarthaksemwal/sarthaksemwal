@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Andriod devlopment**
 
-- 📝You can find my articles on [sarthaksemwal.blogspot.com](sarthaksemwal.blogspot.com)
+- 📝You can find my articles on [https://sarthaksemwal.blogspot.com/](sarthaksemwal.blogspot.com)
 
-- 💬 Ask me about **java , c++ , sql , flutter**
+- 💬 Ask me about **java , firebase , sql , andorid studio**
 
 - 📫 How to reach me **sarthaksemwal02@gmail.com**
 
