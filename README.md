@@ -11,7 +11,7 @@
 
 - 📝You can find my articles on [https://sarthaksemwal.blogspot.com/](sarthaksemwal.blogspot.com)
 
-- 💬 Ask me about **java , Php , sql , React**
+- 💬 Ask me about **java , Php , sql , React , javascript**
 
 - 📫 How to reach me **sarthaksemwal02@gmail.com**
 
