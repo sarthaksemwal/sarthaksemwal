@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Web-development**
 
-- 📝You can find my articles on [https://sarthaksemwal.blogspot.com/](sarthaksemwal.blogspot.com)
+- 📝You can find my articles on [https://sarthaksemwal.blogspot.com/](https://sarthaksmwl.hashnode.dev/)
 
 - 💬 Ask me about **Java , Php , Sql , React , Javascript**
 
-- 📫 How to reach me **sarthaksemwal02@gmail.com**
+- 📫 How to reach me **sarthaksemwal69@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
