@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web-development**
 
-- 📝You can find my articles on [https://sarthaksemwal.blogspot.com/](https://sarthaksmwl.hashnode.dev/)
+- 📝You can find my articles on [HASHNODE](https://sarthaksmwl.hashnode.dev/)
 
 - 💬 Ask me about **Java , Php , Sql , React , Javascript**
 
