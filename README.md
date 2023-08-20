@@ -11,7 +11,7 @@
 
 - 📝You can find my articles on [HASHNODE](https://sarthaksmwl.hashnode.dev/)
 
-- 💬 Ask me about **Java , Php , Sql , React , Javascript**
+- 💬 Ask me about **Java , Sql , React , Javascript**
 
 - 📫 How to reach me **sarthaksemwal69@gmail.com**
 
