@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java , Sql , React , Javascript**
 
-- 📫 How to reach me **sarthaksemwal69@gmail.com**
+- 📫 How to reach me **sarthaksemwal02@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
